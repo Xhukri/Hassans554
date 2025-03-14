@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shukri
 - 👀 I’m interested in ...Devops
-- 🌱 I’m currently learning ...Docker
+- 🌱 I’m currently learning ...Terraform
 - 💞️ I’m looking to collaborate on ...Plartform Engineers
 - 📫 How to reach me ...DM
 - 😄 Pronouns: ...she
